@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "美しき世界",
+  "base_artist": "I Don't Like Mondays.",
+  "createdAt": "2025-12-02T09:14:18.346826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しき世界",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": false,
+      "path": "select/01_美しき世界_I_Don't_Like_Mondays..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しき世界",
+      "artist": "B'z - Album",
+      "has_synced": true,
+      "path": "select/02_美しき世界_B'z_-_Album.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しき世界",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/03_美しき世界_B'z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しき世界",
+      "artist": "I Don't Like Mondays.",
+      "has_synced": false,
+      "path": "select/pl_01_美しき世界_I_Don't_Like_Mondays..txt"
+    }
+  ]
+}
